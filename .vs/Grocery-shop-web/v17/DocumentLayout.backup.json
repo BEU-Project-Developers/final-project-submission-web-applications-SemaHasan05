@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\areas\\admin\\views\\dashboard\\basic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\areas\\admin\\views\\dashboard\\basic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\areas\\admin\\views\\dashboard\\buttons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\areas\\admin\\views\\dashboard\\buttons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\areas\\admin\\views\\dashboard\\charts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\areas\\admin\\views\\dashboard\\charts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\models\\enums\\pstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\models\\enums\\pstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\models\\enums\\ostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\models\\enums\\ostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\views\\home\\wishlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\views\\home\\wishlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\areas\\admin\\views\\dashboard\\icons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\areas\\admin\\views\\dashboard\\icons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\areas\\admin\\views\\dashboard\\typography.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\areas\\admin\\views\\dashboard\\typography.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\areas\\admin\\views\\dashboard\\lockscreen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\areas\\admin\\views\\dashboard\\lockscreen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\areas\\admin\\views\\dashboard\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\areas\\admin\\views\\dashboard\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\areas\\admin\\views\\dashboard\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\areas\\admin\\views\\dashboard\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\models\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\models\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\models\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\models\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\models\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\models\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\views\\home\\productsingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\views\\home\\productsingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\views\\home\\blogsingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\views\\home\\blogsingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwIAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T05:55:11.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T05:44:00.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T05:43:58.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:43:05.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Charts.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Charts.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Charts.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Charts.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Charts.cshtml",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAswE4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T03:17:04.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Icons.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Icons.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Icons.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Icons.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Icons.cshtml",
+              "ViewState": "AgIAAFAUAAAAAAAAAAAswHEUAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T03:15:41.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Typography.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Typography.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Typography.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Typography.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Typography.cshtml",
+              "ViewState": "AgIAAKECAAAAAAAAAAAswNECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T03:14:39.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Buttons.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Buttons.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Buttons.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Buttons.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Buttons.cshtml",
+              "ViewState": "AgIAAGgCAAAAAAAAAAAiwKICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T03:13:44.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LockScreen.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\LockScreen.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\LockScreen.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\LockScreen.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\LockScreen.cshtml",
+              "ViewState": "AgIAACQCAAAAAAAAAAAiwEsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T03:12:11.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Register.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Register.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Register.cshtml",
+              "ViewState": "AgIAACQCAAAAAAAAAAAiwEsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T03:10:00.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Login.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Login.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Login.cshtml",
+              "ViewState": "AgIAACQCAAAAAAAAAAAiwEsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T03:05:19.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Enums\\PStatus.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Enums\\PStatus.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Enums\\PStatus.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Models\\Enums\\PStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:56:24.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Enums\\OStatus.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Enums\\OStatus.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Enums\\OStatus.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Models\\Enums\\OStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:51:17.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Payment.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Models\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:50:22.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Models\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:49:49.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Models\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:49:24.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\CartItem.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Models\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:49:03.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Cart.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Models\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:47:38.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAEAAABAMzMzM5MwwBIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:47:06.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Models\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:46:25.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:44:56.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Basic.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Basic.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Basic.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Basic.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Basic.cshtml",
+              "ViewState": "AgIAAAYCAAAAAAAAAAAwwEICAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T02:33:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:21:48.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T02:13:28.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAUwIoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T01:47:28.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T01:42:26.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductSingle.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\ProductSingle.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\ProductSingle.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\ProductSingle.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Views\\Home\\ProductSingle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T01:42:14.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Wishlist.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Wishlist.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Wishlist.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Wishlist.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Views\\Home\\Wishlist.cshtml",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAALMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T01:41:48.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Views\\Home\\Shop.cshtml",
+              "ViewState": "AgIAAHwBAAAA2MzMzMwHwB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T01:41:33.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Checkout.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Views\\Home\\Checkout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwLMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T01:41:17.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BlogSingle.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\BlogSingle.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\BlogSingle.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\BlogSingle.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Views\\Home\\BlogSingle.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAPAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T01:40:47.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "Grocery-shop-web\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T01:27:48.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:25:48.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
