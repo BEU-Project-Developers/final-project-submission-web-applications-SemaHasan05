@@ -460,3 +460,4 @@ C:\Users\ASUS\Desktop\Grocery-shop-web\Grocery-shop-web\obj\Debug\net8.0\refint\
 C:\Users\ASUS\Desktop\Grocery-shop-web\Grocery-shop-web\obj\Debug\net8.0\Grocery-shop-web.pdb
 C:\Users\ASUS\Desktop\Grocery-shop-web\Grocery-shop-web\obj\Debug\net8.0\Grocery-shop-web.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\Grocery-shop-web\Grocery-shop-web\obj\Debug\net8.0\ref\Grocery-shop-web.dll
+C:\Users\ASUS\Desktop\Grocery-shop-web\Grocery-shop-web\obj\Debug\net8.0\Grocery-shop-web.sourcelink.json

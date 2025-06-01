@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|c:\\users\\asus\\desktop\\grocery-shop-web\\grocery-shop-web\\areas\\admin\\views\\dashboard\\basic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79B68386-DE91-4DDE-91E4-66056EC9466D}|Grocery-shop-web\\Grocery-shop-web.csproj|solutionrelative:grocery-shop-web\\areas\\admin\\views\\dashboard\\basic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -142,11 +146,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "GalleryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Controllers\\GalleryController.cs",
+              "RelativeDocumentMoniker": "Grocery-shop-web\\Controllers\\GalleryController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Controllers\\GalleryController.cs",
+              "RelativeToolTip": "Grocery-shop-web\\Controllers\\GalleryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:52:04.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Blog.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Blog.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Blog.cshtml",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -170,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -182,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\ErrorViewModel.cs",
@@ -194,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Charts.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Charts.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Charts.cshtml",
@@ -206,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Icons.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Icons.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Icons.cshtml",
@@ -218,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Typography.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Typography.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Typography.cshtml",
@@ -230,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Buttons.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Buttons.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Buttons.cshtml",
@@ -242,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "LockScreen.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\LockScreen.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\LockScreen.cshtml",
@@ -254,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Register.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Register.cshtml",
@@ -266,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Login.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Login.cshtml",
@@ -278,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PStatus.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Enums\\PStatus.cs",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Enums\\PStatus.cs",
@@ -290,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "OStatus.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Enums\\OStatus.cs",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Enums\\OStatus.cs",
@@ -302,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Payment.cs",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\Payment.cs",
@@ -314,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\OrderItem.cs",
@@ -326,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\Order.cs",
@@ -338,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\CartItem.cs",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\CartItem.cs",
@@ -350,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Cart.cs",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\Cart.cs",
@@ -362,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\Product.cs",
@@ -374,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\Category.cs",
@@ -386,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Models\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Models\\Entities\\User.cs",
@@ -398,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Basic.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Basic.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Views\\Dashboard\\Basic.cshtml",
@@ -411,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -423,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Shared\\_Layout.cshtml",
@@ -435,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Contact.cshtml",
@@ -447,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Index.cshtml",
@@ -459,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "ProductSingle.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\ProductSingle.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\ProductSingle.cshtml",
@@ -471,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Wishlist.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Wishlist.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Wishlist.cshtml",
@@ -483,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Shop.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Shop.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Shop.cshtml",
@@ -495,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Checkout.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Checkout.cshtml",
@@ -507,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "BlogSingle.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\BlogSingle.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\BlogSingle.cshtml",
@@ -519,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Cart.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Views\\Home\\Cart.cshtml",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Views\\Home\\Cart.cshtml",
@@ -531,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Grocery-shop-web\\Grocery-shop-web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Grocery-shop-web\\Controllers\\HomeController.cs",
